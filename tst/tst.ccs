@@ -1,0 +1,48 @@
+<Solution>
+  <PropertyGroup Name="tst" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="ccs">
+          <PlistImageFolder Image="surface.png" PListFile="surface.plist" Name=".surface_PList.Dir">
+            <PlistImageFile Name="surface_01_01.png" Key="surface_01_01.png" />
+            <PlistImageFile Name="surface_01_02.png" Key="surface_01_02.png" />
+            <PlistImageFile Name="surface_01_03.png" Key="surface_01_03.png" />
+            <PlistImageFile Name="surface_01_04.png" Key="surface_01_04.png" />
+            <PlistImageFile Name="surface_02_01.png" Key="surface_02_01.png" />
+            <PlistImageFile Name="surface_02_02.png" Key="surface_02_02.png" />
+            <PlistImageFile Name="surface_02_03.png" Key="surface_02_03.png" />
+            <PlistImageFile Name="surface_02_04.png" Key="surface_02_04.png" />
+            <PlistImageFile Name="surface_02_05.png" Key="surface_02_05.png" />
+            <PlistImageFile Name="surface_03_01.png" Key="surface_03_01.png" />
+            <PlistImageFile Name="surface_03_02.png" Key="surface_03_02.png" />
+            <PlistImageFile Name="surface_03_03.png" Key="surface_03_03.png" />
+            <PlistImageFile Name="surface_03_04.png" Key="surface_03_04.png" />
+            <PlistImageFile Name="surface_03_05.png" Key="surface_03_05.png" />
+            <PlistImageFile Name="surface_03_06.png" Key="surface_03_06.png" />
+            <PlistImageFile Name="surface_04_01.png" Key="surface_04_01.png" />
+            <PlistImageFile Name="v.png" Key="v.png" />
+          </PlistImageFolder>
+          <Fnt Name="bmfont.fnt" />
+          <Image Name="bmfont.png" />
+          <Image Name="btna.png" />
+          <Image Name="btnb.png" />
+          <Image Name="checka.png" />
+          <Image Name="checkb.png" />
+          <Image Name="gift.png" />
+          <Image Name="hb.png" />
+          <Image Name="icon1.png" />
+          <Image Name="icon2.png" />
+          <Image Name="loadingbar.png" />
+          <Image Name="numbfont.png" />
+          <PlistParticleFile Name="particle.plist" />
+          <Image Name="s9a.png" />
+          <Image Name="s9b.png" />
+          <TTF Name="zy.ttf" />
+        </Folder>
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="PageCell.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

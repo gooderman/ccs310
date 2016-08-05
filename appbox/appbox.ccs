@@ -1,0 +1,27 @@
+<Solution>
+  <PropertyGroup Name="appbox" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="@A">
+          <Image Name="A.png" />
+        </Folder>
+        <Folder Name="@B">
+          <Image Name="B.png" />
+        </Folder>
+        <Folder Name="@C">
+          <Image Name="C.png" />
+        </Folder>
+        <Folder Name="appbox">
+          <Folder Name="ui">
+            <Image Name="afont.png" />
+            <Image Name="s9img.png" />
+          </Folder>
+        </Folder>
+        <Project Name="box.csd" Type="Scene" />
+        <Project Name="gma.csd" Type="Scene" />
+        <Project Name="gmb.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
